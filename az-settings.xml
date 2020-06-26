@@ -4,15 +4,15 @@
     <profile>
         <id>azure</id>
         <properties>
-            <azureFtpUrl>WEBAPP_FTP_URL</azureFtpUrl>
+            <azureFtpUrl>ftps://waws-prod-am2-321.ftp.azurewebsites.windows.net/site/wwwroot</azureFtpUrl>
         </properties>
     </profile>
 </profiles>
 <servers>
     <server>
         <id>azure-hello-world</id>
-        <username>WEBAPP_USERNAME</username>
-        <password>WEBAPP_PASSWORD</password>
+        <username>helloworld-1593171728832\$helloworld-1593171728832</username>
+        <password>2iZu0fxnxdrLXBDZjjBho01m526m3SSMLvyLRNqJPt6iyxjwpumluPFaBWuQ</password>
     </server>
 </servers>
 <activeProfiles>
